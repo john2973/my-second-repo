@@ -1,3 +1,7 @@
 print ("My name is John")
 print ("Mya name is Rob")
 print ("I was born in June")
+print ("My favorite food is pizza")
+print ("My favorite music is rap")
+print ("scorpio")
+print ("zhang")
