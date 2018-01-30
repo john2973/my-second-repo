@@ -1,3 +1,6 @@
 print ("My name is John")
 print ("Mya name is Rob")
 print ("I was born in June")
+print ("My favorite type of food is shrimp")
+print ("My favorite music artist is Bob Dylan")
+print ("I am a gemini, I think")
